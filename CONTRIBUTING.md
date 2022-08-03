@@ -56,7 +56,6 @@ Pull requests must target `development`. As with commit messages, pull request t
 ### Branch organization
 
 - `main` as the production branch, containing the production version of the project
-- `development` as the default and development branch, containing the latest version of the project
 
 ### Branch development
 
