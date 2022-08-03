@@ -1,7 +1,3 @@
-import type { NextPage } from 'next';
+import { HomePage } from '@/components/pages/home-page/home-page';
 
-const Home: NextPage = () => {
-  return <div className="flex" />;
-};
-
-export default Home;
+export default HomePage;
