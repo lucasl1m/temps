@@ -1,0 +1,25 @@
+{
+  "name": "Temps",
+  "short_name": "Temps",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#ebebeb",
+  "theme_color": "#ebebeb",
+  "description": "Temps",
+  "scope": "/",
+  "icons": [
+    {
+      "src": "static/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "static/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
